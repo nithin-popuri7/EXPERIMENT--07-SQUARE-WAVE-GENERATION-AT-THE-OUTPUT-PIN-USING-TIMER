@@ -385,27 +385,31 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
-FOR PULSE AT 500
-
-TON = 
-TOFF=
-TOTAL TIME = 
+## FOR PULSE AT 500
+Total Time Period=41ms TON = 2ms
+TOFF= 2ms
+TOTAL TIME =4
 FREQUENCY = 1/(TOTAL TIME)
+=1/(410^-3)
+=250Hz
 
-FOR PULSE AT 700
-
-TON = 
-TOFF=
-TOTAL TIME = 
+## FOR PULSE AT 700
+Total Time Period=3.11ms
+TON = 2.17ms
+TOFF=0.93ms
+TOTAL TIME =3.1
 FREQUENCY = 1/(TOTAL TIME)
+=1/(3.110^-3)
+=322.58Hz
 
-
-FOR PULSE AT 900
-
-TON = 
-TOFF=
-TOTAL TIME = 
+## FOR PULSE AT 900
+Total Time Period=3.21ms
+TON = 2.88
+TOFF= 0.32
+TOTAL TIME = 3.2
 FREQUENCY = 1/(TOTAL TIME)
+=1/(3.210^-3)
+=312.5Hz
 
 
 ## Result :
