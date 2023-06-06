@@ -369,9 +369,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![exp7 3](https://github.com/nithin-popuri7/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94154780/79c06b6c-56a5-4760-a76a-98ebffde87ef)
 
+## FOR PULSE AT 500:
+
 ![exp7 1](https://github.com/nithin-popuri7/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94154780/9c28b5c4-7f07-4611-8739-b8b5d59529d7)
 
+## FOR PULSE AT 700:
+
 ![exp7 2](https://github.com/nithin-popuri7/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94154780/46b6a15d-ad01-49f8-99fc-4deb820ca872)
+
+## FOR PULSE AT 900:
 
 ![exp7 4](https://github.com/nithin-popuri7/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94154780/21bcf671-a04b-464a-a02d-cbe9a49b3830)
 
@@ -396,7 +402,7 @@ FREQUENCY = 1/(TOTAL TIME)
 
 =1/(410^-3)
 
-=250Hz
+=312.50Hz
 
 ## FOR PULSE AT 700
 Total Time Period=3.11ms
